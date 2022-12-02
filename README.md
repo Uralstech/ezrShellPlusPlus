@@ -6,7 +6,7 @@ Download any releases from here: https://github.com/Uralstech/ezrShellPlusPlus/r
 
 ## **How do I use ezrM (ezr Malayalam) with ezrShell++?**
 With ezrShell++ opened, click on ```ezr EC``` (next to ```Clear```) on the toolbar. A popup should appear.
-If you have ezrMShell in the user PATH variable, just enter ```ezrShell```.
+If you have ezrMShell in the user PATH variable, just enter ```ezrMShell```.
 If you don't, then enter ```"path/where/ezrMShell/was/installed/ezrMShell.exe"```.
 That's it!
 
